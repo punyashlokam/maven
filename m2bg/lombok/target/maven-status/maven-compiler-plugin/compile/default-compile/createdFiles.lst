@@ -1,0 +1,3 @@
+org\lombok\User.class
+org\lombok\App.class
+org\lombok\User$UserBuilder.class

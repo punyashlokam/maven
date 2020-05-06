@@ -1,0 +1,3 @@
+com\menlo\maven\Product.class
+com\menlo\maven\CreateProductRequest.class
+com\menlo\maven\ObjectFactory.class
